@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "fs-extra": "^0.24.0",
+    "handlebars": "^4.0.2",
+    "lodash": "^3.10.1"
+  }
+}
